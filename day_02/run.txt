@@ -1,0 +1,1 @@
+ocamlc run2.ml && cat input1.txt | ./a.out
