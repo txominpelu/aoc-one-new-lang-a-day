@@ -6,6 +6,7 @@ Languages
 
  - [Day 01](day_01): D
  - [Day_02](day_02): ML => OCaml
+ - [Day_03](day_03): Haskell
 
 
 
@@ -31,7 +32,6 @@ PHP
 Scheme	0.24%
 Lisp	0.43%
 F#
-Haskell	0.34%
 Lua
 Swift
 Objective-C
