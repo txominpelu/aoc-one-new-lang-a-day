@@ -7,6 +7,7 @@ Languages
  - [Day 01](day_01): D
  - [Day_02](day_02): ML => OCaml
  - [Day_03](day_03): Haskell
+ - [Day_04](day_04): F#
 
 
 
